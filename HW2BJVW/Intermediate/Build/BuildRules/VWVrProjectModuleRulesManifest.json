@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\vladi\\Documents\\Unreal Projects\\VWVrProject\\Intermediate\\Source\\VWVrProject.Build.cs",
+		"C:\\Users\\vladi\\Documents\\Unreal Projects\\VWVrProject\\Intermediate\\Source\\VWVrProject.Target.cs",
+		"C:\\Users\\vladi\\Documents\\Unreal Projects\\VWVrProject\\Intermediate\\Source\\VWVrProjectClient.Target.cs",
+		"C:\\Users\\vladi\\Documents\\Unreal Projects\\VWVrProject\\Intermediate\\Source\\VWVrProjectEditor.Target.cs",
+		"C:\\Users\\vladi\\Documents\\Unreal Projects\\VWVrProject\\Intermediate\\Source\\VWVrProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

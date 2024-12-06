@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vladi\\documents\\unreal projects\\vwvrproject\\intermediate\\build\\win64\\x64\\unrealgame\\development\\vwvrproject\\module.vwvrproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vladi\\documents\\unreal projects\\vwvrproject\\intermediate\\build\\win64\\x64\\vwvrproject\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\vladi\\documents\\unreal projects\\vwvrproject\\intermediate\\build\\win64\\x64\\unrealgame\\development\\vwvrproject\\definitions.vwvrproject.h",
+            "c:\\users\\vladi\\documents\\unreal projects\\vwvrproject\\intermediate\\source\\vwvrproject.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
