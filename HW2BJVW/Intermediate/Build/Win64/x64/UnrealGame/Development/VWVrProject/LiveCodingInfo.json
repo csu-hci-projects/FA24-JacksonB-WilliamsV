@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VWVrProject.cpp.obj": [
+			"VWVrProject.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/MyGrabbable.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/VrLevel.umap",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/VRTarget.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/AmmoPistol.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/VRTemplate/Input/IMC_Weapon_Left.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GrabbableStatue.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GrabbablePill.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GrabbableKey.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GrabbableCube.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/Pedestal.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/Door.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/AmmoPistol.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/Door.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/GrabbableCube.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/GrabbableKey.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/GrabbablePill.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/GrabbableStatue.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/IA_Reload_Left.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/IA_Reload_Right.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/Pedestal.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/VRTarget.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MainMenuLevel.umap",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/MenuObjects/StartPedestal.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/MenuObjects/MenuKey.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/MenuObjects/EndPedestal.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/MenuObjects/EndPed.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/MenuObjects/StartPed.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/WinLevelObjects/MenuKey1.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/WinLevelObjects/EndPedestal_WIN.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/WinLevel.umap",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/VRTargetMoving.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/UI.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/GameObjects/button9.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/WinLevelObjects/EndPedestal1.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/MenuObjects/MainMenu.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/IA_Reload_Right.uasset",
+				"C:/Users/vladi/Documents/Unreal Projects/VWVrProject/Content/MyBlueprints/IA_Reload_Left.uasset"
+			]
+		}
+	]
+}
